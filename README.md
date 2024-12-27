@@ -26,6 +26,12 @@
 *   Heavy Model
 *   Model is over-fitting
 
+
+**File Link:**
+
+
+[model_1.ipynb](./model_1.ipynb)
+
 ## Model 2
 
 **Target:**
@@ -50,6 +56,12 @@
 *   Added Batch Normalization, MaxPool2d and dropout = 0.1
 *   Initial 5 epocs has more test accuracy than training accuracy
 
+
+**File Link:**
+
+
+[model_2.ipynb](./model_2.ipynb)
+
 ## Model 3
 **Target:**
   
@@ -72,6 +84,12 @@
 *   Light weight Model
 *   Added Batch Normalization, MaxPool2d and dropout = 0.1
 *   Model is getting trained in very efficent way and in very fast
+
+
+**File Link:**
+
+
+[model_3.ipynb](./model_3.ipynb)
 
 ## Model 4
 **Target:**
@@ -96,3 +114,9 @@
 *   Very light weight Model
 *   Added Batch Normalization, MaxPool2d and dropout = 0.1
 *   Initial 5 epocs has more test accuracy than training accuracy
+
+
+**File Link:**
+
+
+[model_4.ipynb](./model_4.ipynb)
